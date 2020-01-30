@@ -1,0 +1,2 @@
+# myJavaGit
+for homework
